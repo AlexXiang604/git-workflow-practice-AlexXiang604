@@ -1,8 +1,3 @@
-
-a paragraph or two about what you find interesting about that article
-remember that this will be public
-Use Markdown syntax to make it look nice
-
 ## A link to an article or web site you find interesting related to software development/engineering (indirect relationships are ok) ##
 https://www.forbes.com/advisor/education/software-engineer-vs-web-developer/
 
